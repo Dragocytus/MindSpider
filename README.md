@@ -1,9 +1,5 @@
-> [!warning]
-> 好像最近项目中用来请求每日热点新闻的api接口被ban了，可以自己部署一下[newsnow](https://github.com/ourongxing/newsnow)，很快的可以一键部署，然后替换掉这个URL即可，最近一个月我也会commit一版更通用的解决方案。
-> ```python
-> #新闻API基础URL
-> BASE URL = "https://newsnow.busiyi.world"
-> ```
+> [!tip]
+> MindSpider是 多Agent舆情分析系统 [BettaFish](https://github.com/666ghj/BettaFish) 的子模块，本仓库已停止单独更新。开发者如需获取最新代码和完整功能，请访问 BettaFish 开源页面并定位至其中的 MindSpider 目录。
 
 # MindSpider - 专为舆情分析设计的AI爬虫
 
